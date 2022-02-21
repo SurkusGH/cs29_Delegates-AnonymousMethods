@@ -59,7 +59,7 @@ namespace cs29_Delegates_AnonymousMethods
             Console.WriteLine(GenericTypeDelegate(10));
             Console.WriteLine();
         }
-#endregion
+        #endregion
         #region Methods
         // Sukurkite delegatą, kuris rodys į metodą su string grąžinamuoju tipu ir trimis parametrais:
         // first name, lastName ir age. Iškvieskite delegato metodą
